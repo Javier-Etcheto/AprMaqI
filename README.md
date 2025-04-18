@@ -11,7 +11,7 @@ Integrantes:
 
 ## Temática elegida
 
-El dataset seleccionado es el reporte de crímenes del Departamento de Policía de Chicago, restringido al año 2024.
+El dataset seleccionado es un conjunto de datos sobre rendimiento académico en estudiantes a lo largo de un curso, acompañado por diferentes métricas como asistencia, niveles de estrés, nivel de educación de padres, etc.
 
 ## Referencias
 
