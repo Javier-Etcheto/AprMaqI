@@ -11,11 +11,11 @@ Integrantes:
 
 ## Temática elegida
 
-El dataset seleccionado es un conjunto de datos sobre rendimiento académico en estudiantes a lo largo de un curso, acompañado por diferentes métricas como asistencia, niveles de estrés, nivel de educación de padres, etc.
+El dataset seleccionado es un conjunto de datos sintético sobre episodios de podcast con diferentes features como el nombre del podcast, el título del episodio, la duración en minutos, etc. a partir de las cuales se plantea predecir el tiempo medio de escucha del mismo, también informada en el dataset.
 
 ## Referencias
 
-* [Fuente de dataset principal](https://www.kaggle.com/datasets/mahmoudelhemaly/students-grading-dataset)
+* [Fuente de dataset principal](https://www.kaggle.com/datasets/ysthehurricane/podcast-listening-time-prediction-dataset)
 
 ## Integración con `uv`
 
